@@ -20,7 +20,7 @@ pillow
 plotly
 pyequilib
 pyexr
-PyMCubes
+PyMCubes==0.1.2
 pyquaternion
 pyyaml
 requests
